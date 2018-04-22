@@ -1,2 +1,2 @@
 # hello-world
-starting
+Hi I want to be a good cooder!
